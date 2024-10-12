@@ -1,4 +1,6 @@
 homepage: "https://seniorlivingsearch.net"
 versions:
+    - sha: 88072ae2ea9d808b68842a45e5535680480be386
+      changeNotes: Corrected filename for consent template.
     - sha: dd158443548e382d1df238bf0d192aeca5b7c29d
       changeNotes: Initial release.
