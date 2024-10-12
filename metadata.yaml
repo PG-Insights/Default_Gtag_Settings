@@ -1,0 +1,4 @@
+homepage: "https://seniorlivingsearch.net"
+versions:
+    - sha: dd158443548e382d1df238bf0d192aeca5b7c29d
+      changeNotes: Initial release.
